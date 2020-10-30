@@ -12,6 +12,11 @@
         <h2>My dog</h2>
         <img src="download.jpg">
         <a href="https://www.it.kmitl.ac.th/th/">Click this Link</a>
-     
+        <ul>
+            <li>A:วันก่อนครับ</li>
+            <li>ฺB:วันนี้อะ</li>
+            <li>A:วันนี้หลวม</li>
+            <h5>ครับ = คับ นะครับ</h>
+        </ul>
     </body>
 </html>
